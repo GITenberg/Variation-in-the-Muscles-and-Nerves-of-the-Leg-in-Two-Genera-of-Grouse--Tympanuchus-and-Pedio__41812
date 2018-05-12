@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41381'
     url: http://www.gutenberg.org/2009/agents/41381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41812#Variation-in-the-Muscles-and-Nerves-of-the-Leg-in-Two-Genera-of-Grouse--Tympanuchus-and-Pedio_
 gutenberg_issued: '2013-01-10'
 gutenberg_type: Text
 identifiers:
