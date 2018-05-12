@@ -1,0 +1,30 @@
+_repo: Variation-in-the-Muscles-and-Nerves-of-the-Leg-in-Two-Genera-of-Grouse--Tympanuchus-and-Pedio__41812
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41812-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Holmes, E. Bruce
+    gutenberg_agent_id: '41381'
+    url: http://www.gutenberg.org/2009/agents/41381
+description: ''
+gutenberg_issued: '2013-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41812'
+  lccn: '64063130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sharp-tailed grouse'
+- !lcsh 'Leg -- Muscles'
+- !lcsh 'Leg -- Innervation'
+- !lcc 'QL'
+- !lcc 'QH'
+- !lcsh 'Tympanuchus'
+title: Variation in the Muscles and Nerves of the Leg in Two Genera of Grouse (Tympanuchus
+  and Pedioecetes)
+url: http://www.gutenberg.org/ebooks/41812
